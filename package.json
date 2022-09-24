@@ -2,15 +2,15 @@
   "name": "ASKMETRADE",
   "main": "ASKMETRADE",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ASKMETRADEเว็บเทรดหุ้นที่ได้เงินจริง การซื้อและขายหุ้นของASKMETRADEโดยมีจุดมุ่งหมายเพื่อทำกำไร เมื่อคุณซื้อหุ้นในASKMETRADE ก็ถือว่าคุณเป็นเจ้าของส่วนเล็ก ๆ ของASKMETRADEนั้น และมูลค่าการลงทุนของคุณจะเปลี่ยนไปเมื่อราคาหุ้นของASKMETRADEนั้นขยับขึ้นและลง การลงทุนหรือการเล่นหุ้น",
   "keywords": [
-   "ASKMETRADEทางเข้า", 
-   "เว็บเทรคหุ้น", 
-   "HOTGraph88",  
-   "เล่นหุ้น",
-   "เช็คราคาหุ้น", 
-   "กราฟหุ้น"
+    "ASKMETRADEทางเข้า",
+    "เว็บเทรคหุ้น",
+    "HOTGraph88",
+    "เล่นหุ้น",
+    "เช็คราคาหุ้น",
+    "กราฟหุ้น"
   ],
   "repository": "https://github.com/wtharworn11/ASKMETRADE",
   "license": "MIT",
